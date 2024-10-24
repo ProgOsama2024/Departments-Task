@@ -1,0 +1,14 @@
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\bin\Debug\net6.0\HRSystem.Core.deps.json
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\bin\Debug\net6.0\HRSystem.Core.runtimeconfig.json
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\bin\Debug\net6.0\HRSystem.Core.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\bin\Debug\net6.0\HRSystem.Core.pdb
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.csproj.AssemblyReference.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.AssemblyInfoInputs.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.AssemblyInfo.cs
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.csproj.CoreCompileInputs.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\refint\HRSystem.Core.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.pdb
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\HRSystem.Core.genruntimeconfig.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Core\obj\Debug\net6.0\ref\HRSystem.Core.dll

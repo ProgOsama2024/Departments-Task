@@ -1,0 +1,15 @@
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\bin\Release\net6.0\HRSystem.Application.deps.json
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\bin\Release\net6.0\HRSystem.Application.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\bin\Release\net6.0\HRSystem.Application.pdb
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\bin\Release\net6.0\HRSystem.Core.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\bin\Release\net6.0\HRSystem.Core.pdb
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.csproj.AssemblyReference.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.AssemblyInfoInputs.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.AssemblyInfo.cs
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.csproj.CoreCompileInputs.cache
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.633E9773.Up2Date
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\refint\HRSystem.Application.dll
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\HRSystem.Application.pdb
+D:\Learning\HRSystem\HRSystem\HRSystem.Application\obj\Release\net6.0\ref\HRSystem.Application.dll
